@@ -1,3 +1,4 @@
+//This question is the solution of recursion subsequence 
 #include<iostream>
 using namespace std;
 void subsequence(string q,string ans){
